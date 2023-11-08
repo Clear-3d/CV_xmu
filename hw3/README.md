@@ -28,3 +28,5 @@ device_id = [0,1,2],
 3.2 4卡不一定比3卡快，可能由于IO问题把，这很玄学，我一个测试的比较好的例子是一张卡50batch，可能是由于不同的batch设置会导致test分测试集batch的时候会分出一些比较慢的batch。
 
 3.3 训练大约在epoch10-14阶段达到最佳性能，本文提供两个模型model_bleu26.pth、model_bleu28.pth给可能有需要的人测试使用，点击这里[下载](https://www.dropbox.com/scl/fo/2eqotgw9xxdwho5k8uee3/h?rlkey=p0dg3see1eiw8s6vr7rgl18yd&dl=0)
+
+最后, If you find this work useful, a star would be greatly appreciated.
